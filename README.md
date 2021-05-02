@@ -16,5 +16,4 @@ None
 None
 
 ## Created by 
-Jason Francis
-```
+Christopher Kidd
